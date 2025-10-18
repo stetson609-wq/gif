@@ -1,0 +1,22 @@
+{
+  "name": "gif-frame-host",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "gifuct-js": "^1.0.0",
+    "formidable": "^3.6.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.4",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.15"
+  }
+}
